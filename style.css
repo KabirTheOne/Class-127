@@ -1,0 +1,36 @@
+body {
+    background-image: url("download.jpeg");
+    background-position: center;
+    background-size: cover;
+    font-family: 'Dancing Script', cursive;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+.heading {
+    width: 100%;
+    margin: 0;
+    font-size: 20px;
+}
+
+.note {
+    color: black;
+    font-size: 15px;
+}
+
+.song_name {
+    font-size: 20px;
+}
+
+canvas {
+    background-color: #000000;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+}
+
+button {
+    background-color: rgb(66, 57, 71);
+    height: 50px;
+    width: 75px;
+}
